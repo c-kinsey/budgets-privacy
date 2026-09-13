@@ -275,7 +275,7 @@ Where appropriate, additional notice or consent may be requested inside the app.
 If you have questions, concerns, or requests regarding this Privacy Policy or your data, contact:
 
 **Budgets Developer**  
-**Email:** [YOUR SUPPORT EMAIL ADDRESS]
+**Email:** support@leon-applications.com
 
 ---
 
